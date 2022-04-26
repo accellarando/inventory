@@ -1,0 +1,16 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+Incorrect Args passed to file!
+Traceback (most recent call last):
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 238, in <module>
+    filepathArray = getArgs()
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 48, in getArgs
+    for opt, arg in opts:
+UnboundLocalError: local variable 'opts' referenced before assignment

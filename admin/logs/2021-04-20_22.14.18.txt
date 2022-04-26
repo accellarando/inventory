@@ -1,0 +1,22 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+{
+Traceback (most recent call last):
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 178, in <module>
+    filepathArray = getArgs()
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 45, in getArgs
+    files = json.loads(arg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)

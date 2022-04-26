@@ -1,0 +1,29 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+Connected, dropping old data for store 7
+
+PROBLEMATIC FORMATTING IN FILE! --- line 0
+BAD STATEMENT: DELETE FROM fromfile WHERE storeNumber = 7
+
+Traceback (most recent call last):
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 102, in tryStatement
+    totalGoodLines+=1
+UnboundLocalError: local variable 'totalGoodLines' referenced before assignment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 157, in <module>
+    removeOld(storeNum)
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 93, in removeOld
+    tryStatement(conn, statement, 0, storeNumber)
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 107, in tryStatement
+    infoDict[storeNum][2][lineNum] = sqlStatement
+KeyError: '7'

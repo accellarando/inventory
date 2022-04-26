@@ -1,0 +1,18 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+eyIxMCI6InVwbG9hZHNcL1BJUExVUDAxMC5jc3YiLCIxMSI6InVwbG9hZHNcL1BJUExVUDAxMS5jc3YiLCIxIjoidXBsb2Fkc1wvUElQTFVQMDAxLmNzdiIsIjIiOiJ1cGxvYWRzXC9QSVBMVVAwMDIuY3N2IiwiMyI6InVwbG9hZHNcL1BJUExVUDAwMy5jc3YiLCI3IjoidXBsb2Fkc1wvUElQTFVQMDA3LmNzdiJ9
+Traceback (most recent call last):
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 179, in <module>
+    filepathArray = getArgs()
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 46, in getArgs
+    files = json.loads(base64.b64decode(sys.argv[1]))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4

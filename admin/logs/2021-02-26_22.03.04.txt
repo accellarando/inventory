@@ -1,0 +1,2163 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+Connected, dropping old data for store 99
+connected to database
+importing data... please wait...
+
+PROBLEMATIC FORMATTING IN FILE! --- line 1
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000101","101","0.0","NEW TEXTBOOKS     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 2
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000102","102","0.0","USED TEXTBOOKS    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 3
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000103","103","0.0","RENTAL TEXTBOOKS  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 4
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000104","104","0.0","RENTAL TEXT USED  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 5
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002105790","202","4.99","HAPPY PILLS       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 6
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002105791","202","5.99","CRAZY ANIMAL KC   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 7
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002105792","202","7.99","RESCUE SERIES VEHI","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 8
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002105793","202","9.99","SLING SHOUTERS    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 9
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978003246434","203","22.99","HARARI HOMO DEUS  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 10
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978006084550","203","17.99","DIAMOND 3RD CHIMPA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 11
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280022639137","201","40.0","LESHKO/ALLOWED TO ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 12
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280146546410","201","50.0","KINDERS/ANIMAL  TH","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 13
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280161117966","201","27.99","RIVERS/IN DOGS WE ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 14
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280184310481","201","14.95","HOOPMAN/ALL CATS H","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 15
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280003246434","203","22.99","HARARI/HOMO DEUS  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 16
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280006084550","203","17.99","DIAMOND/3RD CHIMPA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 17
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280039335432","203","18.95","DIAMOND/GUNS GERMS","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 18
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280052551219","203","18.0","HARARI/21 LESSONS ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 19
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978039335432","203","18.95","DIAMOND GUNS GERMS","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 20
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978052551219","203","18.0","HARARI 21 LESSONS ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 21
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978150439789","203","11.99","FRIEND GOLD COINS ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 22
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000203","203","0.0","ARCHAEOLOGY/ANTHRO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 23
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978026201280","204","44.95","HUDSON ROBERT RYMA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 24
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978029574579","204","0.88","YOHE JI HEARTS OF ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 25
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978031643171","204","50.0","SEDARIS DAVID SEDA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 26
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978081394257","204","29.5","HOAGLAN LOG CABIN ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 27
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280150439789","203","11.99","FRIEND/GOLD COINS ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 28
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280026201280","204","44.95","HUDSON/ROBERT RYMA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 29
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280029574579","204","0.88","YOHE JI/HEARTS OF ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 30
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280031643171","204","50.0","SEDARIS/DAVID SEDA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 31
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280081394257","204","29.5","HOAGLAN/LOG CABIN ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 32
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280084783583","204","29.95","ZEIGER/MICRO GREEN","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 33
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280147800300","204","32.95","GONZALE/CHICANO & ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 34
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000280160433726","204","12.95","CIDER M/GIRLS JUST","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 35
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978084783583","204","29.95","ZEIGER MICRO GREEN","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 36
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978147800300","204","32.95","GONZALE CHICANO & ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 37
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978160433726","204","12.95","CIDER M GIRLS JUST","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 38
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978194133249","204","24.0","SCHARME SPACE SETT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 39
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000204","204","0.0","ART & ARCHITECTURE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 40
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978006287894","205","50.0","BRIAN SIBL HARRY P","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 41
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978014137748","205","14.99","POTTER BEATRIX POT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 42
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115719","272","0.88","IT PEN            ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 43
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019037188301","272","0.88","IT PEN            ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 44
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115720","272","0.88","IT STICKY NOTES   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 45
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000084374314714","272","0.88","IT STICKY NOTES   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 46
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115722","272","9.99","HP TRAVEL KIT     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 47
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019037196039","272","9.99","HP TRAVEL KIT     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 48
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115724","272","9.99","HP HUFFLEPUFF STIC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 49
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000001903719357","272","9.99","HP HUFFLEPUFF STIC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 50
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115725","272","9.99","HP GRYFFINDOR STIC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 51
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019037199354","272","9.99","HP GRYFFINDOR STIC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 52
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115726","272","8.99","HP SLYTHERIN STICK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 53
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019037199358","272","8.99","HP SLYTHERIN STICK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 54
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115727","272","9.99","HP RAVENCLAW STICK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 55
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000066126114505","272","9.99","HP RAVENCLAW STICK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 56
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115728","272","8.99","HP SHAPED ERASER S","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 57
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019037199370","272","8.99","HP SHAPED ERASER S","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 58
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115730","272","29.99","HP FEATHER PEN    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 59
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000190371983061","272","29.99","HP FEATHER PEN    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 60
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115731","272","24.99","HP HOGWARTS STATIO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 61
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000084374314724","272","24.99","HP HOGWARTS STATIO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 62
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115732","272","8.99","HP HEDWIG PEN     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 63
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318668093","272","8.99","HP HEDWIG PEN     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 64
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115733","272","14.99","SW TIE FIGHTER TAP","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 65
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318675466","272","14.99","SW TIE FIGHTER TAP","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 66
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115734","272","19.99","SW TIE FIGHTER STA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 67
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318675467","272","19.99","SW TIE FIGHTER STA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 68
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115735","272","11.99","SW DARTH CLIPBARD ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 69
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318675468","272","11.99","SW DARTH CLIPBARD ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 70
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115736","272","24.99","SW STORM TROOPER D","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 71
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318675470","272","24.99","SW STORM TROOPER D","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 72
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115737","272","24.99","HP HEDWIG TRAVEL P","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 73
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318655882","272","24.99","HP HEDWIG TRAVEL P","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 74
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115739","272","19.99","HP ENVELOPE TOTE  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 75
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000069318646877","272","19.99","HP ENVELOPE TOTE  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 76
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115740","272","15.99","ROSIE LARGE TIN TO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 77
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000019168101092","272","15.99","ROSIE LARGE TIN TO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 78
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115789","272","29.99","ESSENTIAL OIL DIFF","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 79
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115790","272","17.99","FRAGRANCE WARMER G","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 80
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115811","272","4.99","SHHH FOAM EARPLUGS","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 81
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115813","272","7.99","POP UP BOOKEND BLA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 82
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115814","272","7.99","POP UP BOOKEND MIN","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 83
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115815","272","7.99","POP UP BOOKEND RED","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 84
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002115816","272","7.99","KNOW YOUR PLACE PA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 85
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116027","272","4.99","I PLEDGE UTENSIL K","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 86
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116743","272","18.99","SURVIVAL KIT ORANG","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 87
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116744","272","21.99","KEY CHAIN TOOL KIT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 88
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116745","272","19.99","BEARB BUDDY KIT   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 89
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116746","272","0.0","BARTENDER'S MIXOLO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 90
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116747","272","11.99","WHICKY CHILLERS   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 91
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116748","272","29.99","WHISKY LOVERS KIT ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 92
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116749","272","27.99","BARTENDER COCKTAIL","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 93
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116750","272","29.99","FESTIVAL SURVIVAL ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 94
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116751","272","20.99","SNEAKER CLEANSING ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 95
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116752","272","20.99","URBAN CARABINER TO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 96
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116753","272","26.99","MANICURE KIT      ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 97
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116754","272","25.99","SHOE SHINE KIT    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 98
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116755","272","16.99","CREDIT CARD TOOL T","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 99
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116756","272","18.99","HAMMER MULTI TOOL ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 100
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116757","272","15.99","POCKET MULTI TOOL ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 101
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116758","272","20.99","POCKET MANICURE TO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 102
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116759","272","20.99","BICYCLE REPAIR KIT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 103
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116760","272","18.99","POCKET BICYCLE MUL","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 104
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116762","272","21.99","BICYCLE PUNCTURE R","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 105
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116763","272","7.99","CAT LOVER PLAYING ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 106
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116764","272","7.99","DOG LOVER PLAYING ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 107
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116765","272","18.99","DOG LOVERS PUZZLE ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 108
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116766","272","18.99","CAT LOVER PUZZLE  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 109
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116767","272","14.99","TRAVEL SIZE SNEAKE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 110
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116768","272","20.99","MINI TOOL SURVIVAL","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 111
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116769","272","24.99","12 IN 1 SCREWDRIVE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 112
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116770","272","11.99","CAMPFIRE HARMONICA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 113
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116771","272","11.99","CLASSIC HARMONICA ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 114
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116772","272","11.99","BBQ PLAYING CARDS ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 115
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116773","272","22.99","SURVIVAL TOOL KIT ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 116
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116774","272","9.99","FLASHLIGHT MULTI T","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 117
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116775","272","9.99","MINI SCREWDRIVER T","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 118
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002116776","272","11.99","GLOW IN DARK PLAYI","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 119
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002117265","272","8.99","FICKLE STRAWS     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 120
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000060876695029","272","8.99","FICKLE STRAWS     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 121
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002117266","272","8.99","NEEDY NAPKINS     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 122
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000081899001396","339","24.99","IN WOODS          ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 123
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000082010334319","339","16.99","XOOM**********CUBE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 124
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000082428461000","339","15.99","LEXIGO RUSH       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 125
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000082428490040","339","25.99","EYE KNOW          ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 126
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000082496811774","339","32.99","TICKET TO RIDE IND","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 127
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000082496881776","339","29.99","TICKET TO RIDE NET","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 128
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000084126681499","339","8.98","ENCYCLOPEDIA CONNE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 129
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000084586600119","339","29.99","TSURO             ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 130
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000084586600123","339","14.99","ROLL FOR IT! RED  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 131
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000085118700411","339","14.99","MOUTH GUARD CHALLE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 132
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000085784800437","339","19.99","MAD LIBS THE GAME ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 133
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000085941563103","339","19.99","CODENAMES         ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 134
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000086119400000","339","24.99","DONKEY IT'S A KICK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 135
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000087118087106","339","29.99","GOOGLY EYE        ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 136
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000087379400037","339","19.99","SHOW ME THE KWAN  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 137
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000088796100788","339","27.99","BOUNCE OFF        ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 138
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000089288400050","339","19.99","WITS AND WAGERS FA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 139
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000089455400002","339","11.99","RUCKUS            ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 140
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000089488100000","339","24.99","KNOWBODY***KNOWS**","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 141
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000089960000301","339","11.99","WORD Q            ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 142
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002104147","441","24.99","PUTTER COVER BLACK","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 143
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109729","441","26.99","PUTTER COVER *DISC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 144
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000072314167122","441","26.99","PUTTER COVER *DISC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 145
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002112018","441","299.99","GOLF BAG BUCKET CA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 146
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002112019","441","32.99","GOLF HEADCOVER HYB","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 147
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002114986","441","27.99","GOLF GLOVE LEFT HA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 148
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002114987","441","27.99","GOLF GLOVE RIGHT H","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 149
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002119842","441","219.99","GOLF BAG UTAH STAN","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 150
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002121309","441","249.99","GOLF BAG UTAH UU  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 151
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002121344","441","2.99","BALL MARKER INDIVI","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 152
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000441","441","0.0","GOLF              ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 153
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079659","442","9.88","G3 BIKINI BOTTOM (","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 154
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002111709","442","59.0","COS (100) SWIM SHO","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 155
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000000442","442","0.0","SWIM WEAR         ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 156
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002016910","444","10.0","TASSEL RED & WHITE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 157
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002029524","444","16.99","TRADITIONAL GRAD A","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 158
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002030195","444","10.0","TASSEL COLLEGE COL","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 159
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002038319","444","29.99","STOLE OF GRAT-NO R","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 160
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002038406","444","9.99","HONOR CORDS       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 161
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002069195","444","5.99","TASSEL DROP AL (N)","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 162
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002069196","444","5.99","TASSEL DROP BLOCK ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 163
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002069895","444","12.99","TASSEL W/AL BLING ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 164
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002069896","444","15.99","TASSEL W/BLOCK U B","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 165
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002070040","444","5.99","TASSEL DROP BLING ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 166
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074274","444","10.0","GRADUATION CAP    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 167
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074275","444","30.0","GOWN BACHELORS    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 168
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074276","444","35.0","GOWN MASTERS      ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 169
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074277","444","55.0","GOWN PHD/DOCTORATE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 170
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074278","444","30.0","HOOD MASTERS      ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 171
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002074279","444","30.0","HOOD PHD/DOCTORATE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 172
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079664","444","50.0","BACHELORS PACKAGE-","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 173
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079665","444","80.0","BACHELORS PACKAGE-","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 174
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079666","444","85.0","MASTERS PACKAGE - ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 175
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079667","444","115.0","MASTERS PACKAGE - ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 176
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079668","444","105.0","PHD/DOCTOR PACKAGE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 177
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079669","444","135.0","PHD/DOCTOR PACKAGE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 178
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079671","444","10.0","GRADUATION CAP    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 179
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079672","444","40.0","GOWN BACHELOR     ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 180
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079673","444","45.0","GOWN MASTERS      ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 181
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079674","444","55.0","GOWN PHD/DOCTORATE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 182
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079675","444","30.0","HOOD MASTERS      ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 183
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002079676","444","40.0","HOOD PHD/DOCTORATE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 184
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002080224","444","5.99","TASSEL DROP STACKE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 185
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002080225","444","15.99","TASSEL W/STACKED  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 186
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002085627","444","15.99","TASSEL BLING YEAR ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 187
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002096390","444","16.99","GRAD ANNOUNCEMENT ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 188
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002101942","444","30.0","STOLE OF GRAT-NEW ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 189
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002105821","444","45.0","BACHELOR PACKAGE  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 190
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106214","444","12.99","TASSEL AL RED/WHIT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 191
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106215","444","12.99","TASSEL BLOCK U RED","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 192
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106216","444","12.99","TASSEL BLING YEAR ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 193
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106217","444","12.99","TASSEL STACKED RED","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 194
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106739","444","18.99","GRAD ANNOUNCEMENT ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 195
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106740","444","18.99","GRAD ANNOUNCEMENT ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 196
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002106961","444","214.99","DIPL LITHO RED MAT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 197
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107411","615","1049.0","ASUS VIVOBOOK SO  ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 198
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107482","615","6448.0","EST. 106439 - SERV","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 199
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107535","615","2887.0","EST. 106968 LAPTOP","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 200
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107575","615","449.99","14  CB SO10928    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 201
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107672","615","987.0","EST. 107119 MINI T","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 202
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107674","615","3309.0","EST. 107220 TOWER ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 203
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107808","615","2999.0","EST. 107087 SURFAC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 204
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107809","615","189.0","EST. 107087 SURFAC","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 205
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107821","615","210.0","EST. 107266       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 206
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107822","615","89.0","EST. 107266 FAN   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 207
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107823","615","795.0","EST. 107266 2TB SS","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 208
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107824","615","4.5","EST. 107266 SATA C","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 209
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107825","615","6.0","EST. 107266 SATA P","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 210
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107826","615","150.0","USI SERVICE       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 211
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107883","615","1399.99","ASUS VIVBOOK 15   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 212
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107897","615","749.99","ACER ASPIRE 15    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 213
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107898","615","2499.99","HP OMEN I7/16/1TB ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 214
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002107910","615","1320.0","EST. 105428 SERVER","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 215
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108116","615","1765.0","X-6 ORDER #1016474","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 216
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108133","615","1499.99","X1 CARBON SO11032 ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 217
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108180","615","679.0","ACER SWIFT 14  ULT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 218
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108273","615","2299.0","ZEPHYRUS LCD GAMIN","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 219
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108303","615","1912.0","EST 20059 TOWER   ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 220
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108337","615","1299.0","ASUS ZENBOOK FLIP ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 221
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108357","615","8705.0","EST. 108028 SERVER","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 222
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108411","615","239.0","ASUS NB 11.6  4GB/","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 223
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108426","615","802.0","EST. 108278 MINI T","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 224
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108461","615","930.0","TOWER             ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 225
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108463","615","149.0","ASUS MONITOR 21.5 ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 226
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108599","615","799.0","USI SO91889       ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 227
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108601","615","1975.0","USI CTO TOWER MARJ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 228
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108602","615","4950.0","USI CTO MARJAN EST","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 229
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108603","615","3845.0","USI CTO MARJAN EST","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 230
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108604","615","1245.0","SO11261 SOLMAZ MAT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 231
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108606","615","1879.0","SO11269 MBP 13  SG","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 232
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108666","615","329.99","ACER 15.6  4GB/1TB","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 233
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108787","615","18000.0","USI UNIVERSAL TOWE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 234
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108794","615","100.0","USI ORDER EST10850","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 235
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108795","615","1285.0","USI EST108649 MATT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 236
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108825","615","1299.99","SO11321 LENOVO THI","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 237
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108866","615","799.0","ASUS 14  I77500U 2","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 238
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108904","615","999.0","SO11325 GOOGLE PIX","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 239
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002108905","615","550.0","SO11325 SAMSUNG GA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 240
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109142","615","695.0","USI EST 109344  10","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 241
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109143","615","23354.0","USI EST 109129 BRI","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 242
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109144","615","2135.0","USI EST 109283 MAT","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 243
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109155","615","729.0","*ACER 15  ASPIRE 5","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 244
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109157","615","879.0","*ACER 14  SWIFT 5 ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 245
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109160","615","550.0","SO11403 SAMSUNG GA","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 246
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109164","615","952.0","USI DTCI5QC COFFEE","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 247
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109167","615","169.0","VS247H-P USI EST 1","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 248
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109311","615","3421.0","USI EST 109386    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 249
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000002109312","615","1858.0","USI EST 109222    ","             R
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 250
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002270048589","810","5.49","                  ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 251
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228380","873","1.39","EXTRA FRUIT WATERM","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 252
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228400","873","1.39","EXTRA WINTERFRESH ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 253
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228450","873","1.39","EXTRA CLASSIC BUBB","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 254
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228910","873","1.39","EXTRA PEPPERMINT G","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 255
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228980","873","1.39","EXTRA POLAR ICE GU","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 256
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000228990","873","1.39","EXTRA SPEARMINT GU","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 257
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000023272329761","689","49.99","XBOX LEGO STAR WAR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 258
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357102125","433","1.25","GIFT BAG RED SMALL","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 259
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357102175","433","1.75","GIFT BAG  CONFETTI","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 260
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357110050","433","0.5","GIFT ENCLOSURE CAR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 261
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357110060","433","0.6","GIFT ENCLOSURE CAR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 262
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357110800","401","8.0","CR.LAME RIBBON    ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 263
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357117100","433","3.95","ROLL WRAPPING PAPE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 264
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357117200","433","3.75","ROLL WRAPPING PAPE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 265
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357117300","433","3.5","ROLL WRAPPING PAPE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 266
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357118250","433","4.25","GIFT WRAP FLAT JR ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 267
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357121150","433","1.5","CURLIES RIBBON    ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 268
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357123000","433","0.5","GIFT ENCLOSURE CAR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 269
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357126100","433","1.0","BOW 5             ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 270
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357126125","433","1.25","BOW LARGE ALL COLO","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 271
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357127100","433","4.0","ROLL WRAPPING PAPE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 272
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357129035","433","0.35","BOW SMALL ALL COLO","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 273
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357129050","433","0.5","BOW J&R           ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 274
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357129075","433","0.75","BOW BLUE J&R      ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 275
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357130175","433","1.75","WRAPPING TISSUE   ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 276
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357130195","433","1.95","TISSUE ALL COLORS ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 277
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357130250","433","2.5","WRAPPING TISSUE   ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 278
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357146250","433","2.5","FLAT METALIC GOLD ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 279
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000002357151200","433","2.0","CRINKLE TOSS      ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 280
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282321175","431","1.75","RECY EASTER       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 281
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282321195","431","1.95","RECY EASTER       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 282
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330050","431","0.6","RECY POSTCARD     ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 283
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330075","431","0.65","POSTCARDS         ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 284
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330175","431","1.75","POST IT NOTES RECY","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 285
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330195","431","0.48","POST IT NOTES RECY","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 286
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330225","431","2.25","ECO NOTES         ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 287
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330250","431","2.5","INVITATIONS       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 288
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330295","431","2.95","THANKYOU          ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 289
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282330375","431","3.75","ECO NOTES         ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 290
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375039","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 291
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375047","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 292
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375050","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 293
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375063","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 294
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375070","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 295
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375094","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 296
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375497","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 297
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375506","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 298
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375551","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 299
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375552","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 300
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375559","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 301
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375607","431","6.5","MUGS              ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 302
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375608","431","6.5","GOLF CUP          ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 303
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375612","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 304
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375614","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 305
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375620","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 306
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375623","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 307
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375628","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 308
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282375629","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 309
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004282379200","431","6.5","MUG               ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 310
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004289766000","870","1.69","BIG LEAGUE CHEW BU","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 311
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004289766001","870","1.69","BIG LEAGUE CHEW GR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 312
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004289766003","870","1.69","BIG LEAGUE CHEW WA","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 313
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004300000845","870","9.95","CRYSTAL LIGHT LEMO","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 314
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004300001725","870","9.95","CRYSTAL LIGHT RASP","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 315
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004300020016","870","0.25","JELLO 3 OZ BOX    ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 316
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000430420","870","5.59","MIO ENERGY GREEN  ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 317
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000430460","870","4.99","MIO ENERGY BLACK C","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 318
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000430560","870","3.99","MIO STRAW WATERMEL","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 319
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000430630","870","3.99","MIOENERGY GREEN TH","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 320
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000430670","870","3.99","MIOENRGY BLACK CHR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 321
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904047","870","3.99","HOLLOW HEART      ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 322
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904048","870","1.09","HEART LOLLY       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 323
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904052","870","3.29","I LOVE YOU        ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 324
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904070","870","5.49","BAG CHOC.SQU'S    ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 325
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904071","870","5.49","BAG CHOC.HEARTS   ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 326
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904085","870","3.99","CHOC HEARTS       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 327
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331904086","870","3.99","NAP SQUARES       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 328
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905037","870","4.99","SUPERIOR CHOC BUNN","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 329
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905039","870","4.99","SUPERIOR CHOC EGGS","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 330
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905051","870","1.49","FOILED CHOC.RABBIT","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 331
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905144","870","1.99","SUPRISE EGG       ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 332
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905161","870","0.39","CHOC.EASTER COMB  ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 333
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905162","870","0.5","CHOCOLATE EGG     ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 334
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331905163","870","0.5","CHOCOLATE LAMB    ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 335
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331906110","870","1.29","LOVE BUG CHOCOLATE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 336
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004331906210","870","4.29","CHOC ROSE         ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 337
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435040","870","0.49","CRYSTAL LIGHT SUNR","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 338
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435510","870","3.99","MIO FIT ARCTIC GRA","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 339
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435530","870","3.99","MIO FIT BERRY BLAS","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 340
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000004357100234","870","4.49","BLACK/WHITE KETTLE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 341
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435800","870","4.99","MIO ENERGY ACAI BE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 342
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435810","870","3.99","MIO ENERGY ACAI BE","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 343
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435820","870","3.99","MIO ENERGY TROP   ","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 344
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000000000435830","870","3.99","MIO FIT LEMON LIME","             U
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 345
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978130569919","101","85.45","GUFFEY/ESSENTIALS ","0006410102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 346
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978038553873","101","28.95","KRAKAUE/MISSOULA  ","0002170102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 347
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978110191176","101","7.95","ADICHIE/WE SHOULD ","0000595102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 348
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978160899208","101","18.0","WILLIAM/OPEN SPACE","0001350102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 349
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978081297930","101","20.0","NAFISI/READING LOL","0001500102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 350
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978130510804","101","300.0","HARSHBA/MATH.APPL.","0002598102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 351
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978013348687","101","253.3","STOCK/INTRO.TO ECO","0017498102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 352
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978069116466","101","27.7","CHEN/GETTING SAVED","0002080102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 353
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978188887064","101","72.0","BYRNE/CONTRACT TEX","0005400102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 354
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978013376893","101","102.65","VANDEWA/ELEMENTARY","0007700102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 355
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978146416350","101","161.35","SCHACTE/INTRODUCIN","0001598102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 356
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978007339790","101","208.35","DAVIS/PRINCIPLES O","0008598102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 357
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978052179733","101","53.0","MESTHRI/WORLD ENGL","0003975102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 358
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978148337412","101","64.0","KURTZ/GODS IN THE ","0004800102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 359
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978162153526","101","15.0","SCHROEP/BARE BONES","0001125102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 360
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978097108966","101","40.5","PRONSKY/FOOD MEDIC","0003040102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 361
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978187822010","101","106.65","LACKMAN/MIDLATITUD","0007198102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 362
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978014104715","101","23.0","CUDDON/DICT.OF LIT","0001725102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 363
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978148334003","101","129.05","BERMAN/HUMAN RESOU","0009680102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 364
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001793654","110","33.15","LAREAU/EBK UNEQUAL","0003315110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 365
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978225310907","101","19.95","DIOME/LE VENTRE DE","0001495102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 366
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978161427212","101","0.88","LEO TOL/A CONFESSI","0000088102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 367
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001834374","110","85.0","GILLETT/EBK DESIGN","0008500110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 368
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978023029004","101","26.65","FLIOTSO/INTERPRETI","0002000102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 369
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978155936360","101","13.95","RUHL/IN THE NEXT R","0001045102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 370
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978155936340","101","13.95","HWANG/YELLOW FACE ","0001045102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 371
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978113360715","101","287.0","BROWN/UNDERSTANDIN","0011598102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 372
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978081476006","101","28.8","ANDERSO/EVERYONE E","0002160102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 373
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978111880856","101","236.0","ENDERS/APPLIED ECO","0010698102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 374
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978019477614","101","53.35","LATHAM-/AMERICAN E","0004000102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 375
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978013294229","101","34.65","AZAR/BASIC ENGLISH","0002600102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 376
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978110761155","101","18.65","RICHARD/INTERCHANG","0001400102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 377
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978128545234","101","15.98","SCHWALB/INFORMATIO","0001598102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 378
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978149194896","101","60.0","ENGE/ART OF SEO   ","0002798102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 379
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978019979745","101","69.3","LEE/WAGING WAR    ","0005200102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 380
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978193443213","101","75.7","METZLER/INSTRUCTIO","0005680102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 381
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978187731907","101","0.88","URALE/FRANGIPANE P","0000088102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 382
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978111873355","101","58.6","LECHNER/GLOBALIZAT","0004395102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 383
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001782290","110","48.65","LECHNER/EBK GLOBAL","0004865110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 384
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978158826905","101","32.5","ENGLEBE/INSIDE AFR","0002440102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 385
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978113884982","101","66.1","EGENFEL/UNDERSTAND","0004960102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 386
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001684936","110","22.1","CRUTCHF/EBK FORCES","0002210110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 387
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978163281538","101","201.6","CRAIN/WORKLAW CASE","0010398102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 388
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978130510494","101","200.0","BABBIE/PRACTICE OF","0015000102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 389
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978013405816","101","200.0","JENSEN/INTRO.DIGIT","0015000102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 390
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978144418470","101","100.2","KNOX/GEOGRAPHY OF ","0005298102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 391
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978157718033","101","97.6","LAITY/DESERTS+DESE","0007320102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 392
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978019997467","101","0.88","DEBUYS/GREAT ARIDN","0000088102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 393
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978039360042","101","126.95","FUNDER/PERSONALITY","0009520102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 394
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978128408911","101","158.9","ABOOD/PHARMACY PRA","0011920102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 395
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978184872667","101","128.0","NEWMAN/THEORIES OF","0009600102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 396
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978142925526","101","214.85","STANLEY/EARTH SYST","0016115102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 397
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978128507593","101","175.0","WOOD/GENDERED LIVE","0003355102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 398
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978146251154","101","41.6","KOVALES/RTI APPROA","0003120102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 399
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978089128856","101","59.95","POGRUND/EARLY FOCU","0004495102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 400
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978076563878","101","73.55","GOODWIN/MICROECONO","0000398102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 401
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978019937999","101","0.88","TEBEAUX/ESSENTIALS","0000088102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 402
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978110703719","101","80.0","SALTZMA/BIOMEDICAL","0006000102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 403
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978155936384","101","16.95","KUSHNER/ANGELS IN ","0001270102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 404
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978193934905","101","59.0","BULLARD/ITINERANT ","0004425102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 405
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978032318835","101","74.65","JORDE/MEDICAL GENE","0005600102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 406
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978039334024","101","17.95","FINE/DELUSIONS OF ","0001345102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 407
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978080700623","101","15.0","BALDWIN/NOTES OF A","0001125102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 408
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978041589326","101","38.35","SCHAFFE/ELUCIDATIN","0002875102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 409
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978041553741","101","38.35","SHENHAV/ANALYZING ","0002875102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 410
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001810733","110","50.8","YANOW/EBK INTERPRE","0005080110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 411
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978128519805","101","125.0","SHIPLEY/ASSESSMENT","0009375102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 412
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978161711634","101","63.95","DUNBAR/OCCUPATIONA","0004795102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 413
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001819527","110","113.9","HOCKENB/EBK WONG'S","0011390110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 414
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001671424","110","66.35","COOK/EBK ORTHOPEDI","0006635110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 415
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978827054201","101","58.88","KALTENB/MANUAL MOB","0005888102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 416
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978159451952","101","34.1","WAITZKI/MEDICINE+P","0002560102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 417
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978156793723","101","117.35","RICE/ECONOMICS OF ","0008800102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 418
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978013404338","101","93.3","SNELL/INSTRUCT.OF ","0007000102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 419
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978162810198","101","0.88","SPRANKL/PROPERTY C","0000088102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 420
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978145485006","101","59.7","BURKE/PROPERTY EXA","0001198102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 421
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000281001810855","110","44.25","LEE/EBK HUMANS IN ","0004425110  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 422
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978130564236","101","200.0","GALDA/LITERATURE+T","0009498102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 423
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978039393888","101","38.45","POPIEL/ROUSSEAU BU","0002885102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 424
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978111880096","101","55.4","GREENHA/HOW TO REA","0003998102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 425
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978007179071","101","84.25","GUYATT/USERS'GDE.T","0006320102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 426
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978146252368","101","32.0","DAVID J/CLINICIAN'","0002400102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 427
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978019967675","101","56.55","DIGGLE/ANALYSIS OF","0004240102  YA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 428
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978076378048","101","177.95","DEVRIES/GLOBAL SUR","0013345102  NA
+","99");
+
+
+PROBLEMATIC FORMATTING IN FILE! --- line 429
+BAD STATEMENT: INSERT INTO fromfiles (SKU, classCode, retailPrice, description, type, storeNumber) VALUES ("0000000000978111861590","101","176.0","GRONDZI/MECH.+ELEC","0005096102  YA
+","99");
+
+
+File for store 99 finished importing.
+Imported 0 lines out of 429 total.
+
+Elapsed time: 
+0:00:00.294769

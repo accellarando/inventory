@@ -1,0 +1,4 @@
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 149
+    global totalGoodLines = 0
+                          ^
+SyntaxError: invalid syntax

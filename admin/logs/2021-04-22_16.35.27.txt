@@ -1,0 +1,4 @@
+  File "C:\Apache24\htdocs\inventory\csvImporter.py", line 48
+    exit()
+         ^
+TabError: inconsistent use of tabs and spaces in indentation

@@ -1,0 +1,19 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+Connected, dropping old data for store 3
+connected to database
+importing data... please wait...
+
+File for store 3 finished importing.
+Imported 85415 lines.
+Traceback (most recent call last):
+  File "/Users/Shared/RemoteShare/inventory/admin/csvImporter.py", line 162, in <module>
+    email(numLines+numLinesTwo, storeNum, time)
+NameError: name 'numLinesTwo' is not defined

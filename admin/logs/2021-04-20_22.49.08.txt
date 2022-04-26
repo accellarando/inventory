@@ -1,0 +1,56 @@
+   _____  _______      __  _____                            _            
+  / ____|/ ____\ \    / / |_   _|                          | |           
+ | |    | (___  \ \  / /    | |  _ __ ___  _ __   ___  _ __| |_ ___ _ __ 
+ | |     \___ \  \ \/ /     | | | '_ ` _ \| '_ \ / _ \| '__| __/ _ \ '__|
+ | |____ ____) |  \  /     _| |_| | | | | | |_) | (_) | |  | ||  __/ |   
+  \_____|_____/    \/     |_____|_| |_| |_| .__/ \___/|_|   \__\___|_|   
+                                          | |                         
+                                          |_|
+
+eyIxMCI6InVwbG9hZHNcL1BJUExVUDAxMC5jc3YiLCIxMSI6InVwbG9hZHNcL1BJUExVUDAxMS5jc3YiLCIxIjoidXBsb2Fkc1wvUElQTFVQMDAxLmNzdiIsIjIiOiJ1cGxvYWRzXC9QSVBMVVAwMDIuY3N2IiwiMyI6InVwbG9hZHNcL1BJUExVUDAwMy5jc3YiLCI3IjoidXBsb2Fkc1wvUElQTFVQMDA3LmNzdiJ9
+Connected, dropping old data for store 10
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 10 finished importing.
+Connected, dropping old data for store 11
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 11 finished importing.
+Connected, dropping old data for store 1
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 1 finished importing.
+Connected, dropping old data for store 2
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 2 finished importing.
+Connected, dropping old data for store 3
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 3 finished importing.
+Connected, dropping old data for store 7
+Data dropped.
+
+connected to database
+importing data... please wait...
+
+File for store 7 finished importing.
+Imported 502953 lines out of 502953 total.
+
+Elapsed time: 
+6:08:33.875728
