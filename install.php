@@ -19,7 +19,7 @@ if(isset($_POST) && !empty($_POST)){
 	if(!$conn)
 		die("MYSQL ERROR: ".mysqli_connect_error());
 
-	$query = "CREATE DATABASE {$_POST['db']}";
+	$query = "CREATE DATABASE '{$_POST['db']}'";
 	if(mysqli_query($conn,$query))
 		$status .= "<br>Database created successfully.";
 	else
