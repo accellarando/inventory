@@ -1,9 +1,12 @@
 # MBS Books Inventory Application
 An inventory application for use in MBS campus bookstores.
 
-Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
+Developed for the University of Utah by Ella Moss, started by Jimmy Glasscock.
 
 ## Prerequisites
+* PHP, naturally
+* A MySQL server, running, with mysql in your PATH
+* A web server - this was deployed with Apache, YMMV with others
 
 ## Installation
 1. Unzip repository into your webserver's web root (typically the htdocs directory).
