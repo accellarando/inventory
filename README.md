@@ -1,7 +1,7 @@
 # MBS Books Inventory Application
 An inventory application for use in MBS campus bookstores.
 
-Developed for the University of Utah by Ella Moss.
+Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
 
 ## Installation
 Todo: this
@@ -9,4 +9,4 @@ Todo: this
 Todo: make SQL files to import
 
 ## Usage
-Todo: this
+See the wiki for documentation and tutorials.
