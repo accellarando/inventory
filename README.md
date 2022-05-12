@@ -9,4 +9,4 @@ Todo: this
 Todo: make SQL files to import
 
 ## Usage
-Todo: this
+See the wiki for documentation and tutorials.
