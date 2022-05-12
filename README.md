@@ -3,6 +3,8 @@ An inventory application for use in MBS campus bookstores.
 
 Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
 
+## Prerequisites
+
 ## Installation
 1. Unzip repository into your webserver's web root (typically the htdocs directory).
 
@@ -17,6 +19,10 @@ Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
 6. You can now remove install.php and install.sql.
 
 7. Set up or remove your reCAPTCHA keys in index.php.
+
+8. The default username and password is "admin".
+
+9. Go through and update email addresses as needed for your org.
 
 ## Usage
 See the wiki for documentation and tutorials.

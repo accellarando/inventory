@@ -36,22 +36,12 @@ if(isset($_POST["username"]) && isset($_POST["password"])){
 	$query = "SELECT (clearance) FROM users WHERE username = '".$_POST["username"]."';";
 	$clearance = $conn -> query($query)->fetch_assoc()['clearance'];
 
-	//this prevents standard users from logging into admin side
-	/*
-	if($exists && $clearance != '0'){
-	$incorrect = true;
-	echo "<h1>Admin accounts should not be used as standard user accounts. Log in at /inventory/admin/.</h1>";
-	exit(0);
-	}
-	 */
-
 	$query = "SELECT (password) FROM users WHERE username = '".$_POST["username"]."';";
 	$hashedPassword = $conn -> query($query)->fetch_assoc()['password'];
 
 	if(sha1($_POST["password"]) == $hashedPassword){	
 		//verify captcha, set the appropriate session cookies
 		$_SESSION['g-recaptcha-response'] = $_POST['g-recaptcha-response'];
-		//$_SESSION['g-recaptcha-response'] = "verified";
 		$_SESSION['username'] = $_POST["username"];
 
 		$ip = $_SERVER['REMOTE_ADDR'];
@@ -112,12 +102,6 @@ if(isset($_POST["username"]) && isset($_POST["password"])){
 					die();
 				}
 
-				/*
-				 *if(isset($_GET['admin']))
-				 *    header("Location: /inventory/admin/adminPanel.php");
-				 *else
-				 *    header("Location: /inventory/userPanel.php");
-				 */
 			}
 		}
 

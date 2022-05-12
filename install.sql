@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 12, 2022 at 05:16 PM
+-- Generation Time: May 12, 2022 at 05:43 PM
 -- Server version: 10.7.3-MariaDB
 -- PHP Version: 7.4.28
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `inventory`
+-- Database: `inventory2`
 --
 
 -- --------------------------------------------------------
@@ -99,6 +99,7 @@ CREATE TABLE `fromfile` (
   `storeNumber` int(11) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;
 
+-- --------------------------------------------------------
 
 --
 -- Table structure for table `scanned`
@@ -133,6 +134,13 @@ CREATE TABLE `users` (
   `manager_id` int(11) NOT NULL DEFAULT 1,
   `temp_password` int(11) NOT NULL DEFAULT 1
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `username`, `password`, `name`, `last_login`, `clearance`, `manager_id`, `temp_password`) VALUES
+(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Administrator', '2022-05-12 17:43:23', 2, 1, 1);
 
 --
 -- Indexes for dumped tables
@@ -226,7 +234,7 @@ ALTER TABLE `scanned`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
