@@ -118,9 +118,6 @@ $recaptchaKey = ($_SERVER['REMOTE_ADDR']=="127.0.0.1") ? "6LeIxAcTAAAAAJcZVRqyHh
 		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 		<title>Inventory - Sign In</title>
-		<!--<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7/themes/smoothness/jquery-ui.css">
-	  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>-->
 
 	  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">

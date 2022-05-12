@@ -16,7 +16,7 @@ Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
 
 5. Run the script and cross your fingers!
 
-6. You can now remove install.php and install.sql.
+6. You should now remove install.php and install.sql.
 
 7. Set up or remove your reCAPTCHA keys in index.php.
 
@@ -24,5 +24,9 @@ Developed for the University of Utah by Ella Moss and Jimmy Glasscock.
 
 9. Go through and update email addresses as needed for your org.
 
+10. Update departmentSelector.html and storeSelector.html (in the classes folder) to reflect how you do things.
+
+11. See the wiki for instructions on importing your first validation file. (todo: write this)
+ 
 ## Usage
 See the wiki for documentation and tutorials.
