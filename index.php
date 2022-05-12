@@ -181,6 +181,5 @@ if($incorrect){
 </div>
 <div class="center"><a style="text-decoration: none;" href="request-account.php"><p style="text-align: center; color: #cc0000;">Request an account</p></a></div>
 
-<?php include "../Libraries/footer.html"; ?>
 	</body>
 </html>
