@@ -313,8 +313,10 @@ function addPdfItems($pdf,$items,$dept='',$store='',$fixt='',$shelf='',$box=''){
 	$totalPrice = 0.0;
 	foreach($items as $item){
 		$itemDetails = getItemDetails($item['sku'],$item['store']);
-		$totalPrice += $itemDetails['price'] * $item['QTY'];
+		$totalPrice += intval(str_replace(",","",$itemDetails['price'])) * $item['QTY'];
+		//commas break intval for some reason. remove them first!
 	}
+	$totalPrice = number_format($totalPrice,2);
 
 	$generator = new Picqer\Barcode\BarcodeGeneratorPNG();
 
