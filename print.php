@@ -313,7 +313,7 @@ function addPdfItems($pdf,$items,$dept='',$store='',$fixt='',$shelf='',$box=''){
 	$totalPrice = 0.0;
 	foreach($items as $item){
 		$itemDetails = getItemDetails($item['sku'],$item['store']);
-		$totalPrice += intval(str_replace(",","",$itemDetails['price'])) * $item['QTY'];
+		$totalPrice += floatval(str_replace(",","",$itemDetails['price'])) * $item['QTY'];
 		//commas break intval for some reason. remove them first!
 	}
 	$totalPrice = number_format($totalPrice,2);
