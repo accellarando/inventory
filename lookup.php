@@ -29,8 +29,9 @@ if(isset($sku)){
 	//Some SKUs in the scanned table still have leading zeros.
 
 	$details = getItemDetails($sku); //helpers: returns (description, price)
-	$description = ($details==NULL) ? "?" : $details[0];
-	echo "<h1>".$sku." - ".$details[0]."</h1>";
+	$description = ($details==NULL) ? "?" : $details["description"];
+	$price = ($details == NULL) ? "$?" : $details["price"];
+	echo "<h1>".$sku." - ".$description." - ".$price."</h1>";
 }
 ?>
 </div>
